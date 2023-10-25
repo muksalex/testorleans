@@ -1,0 +1,36 @@
+D:\TestAzure\Orleans\FinalDemoWithPersistence191023\BankAccountWith7\BankAccountCommon\bin\Debug\net7.0\BankAccountCommon.deps.json
+D:\TestAzure\Orleans\FinalDemoWithPersistence191023\BankAccountWith7\BankAccountCommon\bin\Debug\net7.0\BankAccountCommon.dll
+D:\TestAzure\Orleans\FinalDemoWithPersistence191023\BankAccountWith7\BankAccountCommon\bin\Debug\net7.0\BankAccountCommon.pdb
+D:\TestAzure\Orleans\FinalDemoWithPersistence191023\BankAccountWith7\BankAccountCommon\obj\Debug\net7.0\BankAccountCommon.csproj.AssemblyReference.cache
+D:\TestAzure\Orleans\FinalDemoWithPersistence191023\BankAccountWith7\BankAccountCommon\obj\Debug\net7.0\BankAccountCommon.GeneratedMSBuildEditorConfig.editorconfig
+D:\TestAzure\Orleans\FinalDemoWithPersistence191023\BankAccountWith7\BankAccountCommon\obj\Debug\net7.0\BankAccountCommon.AssemblyInfoInputs.cache
+D:\TestAzure\Orleans\FinalDemoWithPersistence191023\BankAccountWith7\BankAccountCommon\obj\Debug\net7.0\BankAccountCommon.AssemblyInfo.cs
+D:\TestAzure\Orleans\FinalDemoWithPersistence191023\BankAccountWith7\BankAccountCommon\obj\Debug\net7.0\BankAccountCommon.csproj.CoreCompileInputs.cache
+D:\TestAzure\Orleans\FinalDemoWithPersistence191023\BankAccountWith7\BankAccountCommon\obj\Debug\net7.0\BankAccountCommon.dll
+D:\TestAzure\Orleans\FinalDemoWithPersistence191023\BankAccountWith7\BankAccountCommon\obj\Debug\net7.0\refint\BankAccountCommon.dll
+D:\TestAzure\Orleans\FinalDemoWithPersistence191023\BankAccountWith7\BankAccountCommon\obj\Debug\net7.0\BankAccountCommon.pdb
+D:\TestAzure\Orleans\FinalDemoWithPersistence191023\BankAccountWith7\BankAccountCommon\obj\Debug\net7.0\ref\BankAccountCommon.dll
+C:\Users\Mukesh Dangi\Downloads\FinalDemoWithPersistence23\FinalDemoWithPersistence191023\BankAccountWith7\BankAccountCommon\bin\Debug\net7.0\BankAccountCommon.deps.json
+C:\Users\Mukesh Dangi\Downloads\FinalDemoWithPersistence23\FinalDemoWithPersistence191023\BankAccountWith7\BankAccountCommon\bin\Debug\net7.0\BankAccountCommon.dll
+C:\Users\Mukesh Dangi\Downloads\FinalDemoWithPersistence23\FinalDemoWithPersistence191023\BankAccountWith7\BankAccountCommon\bin\Debug\net7.0\BankAccountCommon.pdb
+C:\Users\Mukesh Dangi\Downloads\FinalDemoWithPersistence23\FinalDemoWithPersistence191023\BankAccountWith7\BankAccountCommon\obj\Debug\net7.0\BankAccountCommon.csproj.AssemblyReference.cache
+C:\Users\Mukesh Dangi\Downloads\FinalDemoWithPersistence23\FinalDemoWithPersistence191023\BankAccountWith7\BankAccountCommon\obj\Debug\net7.0\BankAccountCommon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mukesh Dangi\Downloads\FinalDemoWithPersistence23\FinalDemoWithPersistence191023\BankAccountWith7\BankAccountCommon\obj\Debug\net7.0\BankAccountCommon.AssemblyInfoInputs.cache
+C:\Users\Mukesh Dangi\Downloads\FinalDemoWithPersistence23\FinalDemoWithPersistence191023\BankAccountWith7\BankAccountCommon\obj\Debug\net7.0\BankAccountCommon.AssemblyInfo.cs
+C:\Users\Mukesh Dangi\Downloads\FinalDemoWithPersistence23\FinalDemoWithPersistence191023\BankAccountWith7\BankAccountCommon\obj\Debug\net7.0\BankAccountCommon.csproj.CoreCompileInputs.cache
+C:\Users\Mukesh Dangi\Downloads\FinalDemoWithPersistence23\FinalDemoWithPersistence191023\BankAccountWith7\BankAccountCommon\obj\Debug\net7.0\BankAccountCommon.dll
+C:\Users\Mukesh Dangi\Downloads\FinalDemoWithPersistence23\FinalDemoWithPersistence191023\BankAccountWith7\BankAccountCommon\obj\Debug\net7.0\refint\BankAccountCommon.dll
+C:\Users\Mukesh Dangi\Downloads\FinalDemoWithPersistence23\FinalDemoWithPersistence191023\BankAccountWith7\BankAccountCommon\obj\Debug\net7.0\BankAccountCommon.pdb
+C:\Users\Mukesh Dangi\Downloads\FinalDemoWithPersistence23\FinalDemoWithPersistence191023\BankAccountWith7\BankAccountCommon\obj\Debug\net7.0\ref\BankAccountCommon.dll
+D:\testorleans\BankAccountCommon\bin\Debug\net7.0\BankAccountCommon.deps.json
+D:\testorleans\BankAccountCommon\bin\Debug\net7.0\BankAccountCommon.dll
+D:\testorleans\BankAccountCommon\bin\Debug\net7.0\BankAccountCommon.pdb
+D:\testorleans\BankAccountCommon\obj\Debug\net7.0\BankAccountCommon.csproj.AssemblyReference.cache
+D:\testorleans\BankAccountCommon\obj\Debug\net7.0\BankAccountCommon.GeneratedMSBuildEditorConfig.editorconfig
+D:\testorleans\BankAccountCommon\obj\Debug\net7.0\BankAccountCommon.AssemblyInfoInputs.cache
+D:\testorleans\BankAccountCommon\obj\Debug\net7.0\BankAccountCommon.AssemblyInfo.cs
+D:\testorleans\BankAccountCommon\obj\Debug\net7.0\BankAccountCommon.csproj.CoreCompileInputs.cache
+D:\testorleans\BankAccountCommon\obj\Debug\net7.0\BankAccountCommon.dll
+D:\testorleans\BankAccountCommon\obj\Debug\net7.0\refint\BankAccountCommon.dll
+D:\testorleans\BankAccountCommon\obj\Debug\net7.0\BankAccountCommon.pdb
+D:\testorleans\BankAccountCommon\obj\Debug\net7.0\ref\BankAccountCommon.dll
