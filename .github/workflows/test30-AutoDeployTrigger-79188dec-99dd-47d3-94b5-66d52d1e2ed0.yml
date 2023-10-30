@@ -1,0 +1,42 @@
+name: Trigger auto deployment for test30
+
+# When this action will be executed
+on:
+  # Automatically trigger it when detected changes in repo
+  push:
+    branches: 
+      [ main ]
+    paths:
+    - '**'
+    - '.github/workflows/test30-AutoDeployTrigger-79188dec-99dd-47d3-94b5-66d52d1e2ed0.yml'
+
+  # Allow manual trigger 
+  workflow_dispatch:
+      
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout to the branch
+        uses: actions/checkout@v2
+
+      - name: Azure Login
+        uses: azure/login@v1
+        with:
+          creds: ${{ secrets.TEST30_AZURE_CREDENTIALS }}
+
+      - name: Build and push container image to registry
+        uses: azure/container-apps-deploy-action@v1
+        with:
+          appSourcePath: ${{ github.workspace }} 
+          registryUrl: orleansshoppingcartsilo20231030145732.azurecr.io
+          registryUsername: ${{ secrets.TEST30_REGISTRY_USERNAME }}
+          registryPassword: ${{ secrets.TEST30_REGISTRY_PASSWORD }}
+          containerAppName: test30
+          resourceGroup: playground
+          imageToBuild: orleansshoppingcartsilo20231030145732.azurecr.io/test30:${{ github.sha }}
+          
+
+     
+
